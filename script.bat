@@ -1,0 +1,1 @@
+D:\shadi\PythonProjects\envs\tictactoe\Scripts
